@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WordsApp</string>
+    <string name="action_switch_layout">switch layout</string>
 </resources>
