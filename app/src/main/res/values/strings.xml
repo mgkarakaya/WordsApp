@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">WordsApp</string>
     <string name="action_switch_layout">switch layout</string>
+    <string name="word_list_fragment_label">Words That Start With {letter}</string>
 </resources>
